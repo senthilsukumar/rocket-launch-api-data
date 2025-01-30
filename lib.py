@@ -162,7 +162,7 @@ class process_endpoints:
 				t.daemon = True
 				t.start()
 
-			for pg in range(2,pages+1): # From page 2 onwrards pull the data
+			for pg in range(2,pages+1): # From page 2 onwards pull the data
 				q.put([endpoint,pg]) 
 
 			q.join() 
