@@ -1,5 +1,5 @@
 # rocket-launch-api-data
- - Objective: Extract launch data from Rocket Launch API and write to CSV file
+ - Objective: Extract launch data from RocketLaunch.Live's API and write to CSV file
  - Entities: Companies, Launches, Locations, Missions, Pads, Tags, Vehicles 
  - API Docs: https://www.rocketlaunch.live/
 
